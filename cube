@@ -1,0 +1,6 @@
+def cube(x):
+  q = x*x*x
+  print('Cube of ',x,' is',q)
+  return
+a = int(input("Enter a number"))
+cube(a)
